@@ -1,2 +1,2 @@
 # OpenCV-Course
-Edit &amp; Add Filters to Images and Videos with Python
+Edit &amp; Add Filters to Images or Videos with Python
