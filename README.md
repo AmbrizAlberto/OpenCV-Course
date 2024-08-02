@@ -36,13 +36,8 @@ El curso abarca diferentes técnicas y algoritmos para el procesamiento de imág
     python -m venv venv
     source venv/bin/activate   # En Windows usa `venv\Scripts\activate`
     pip install -r requirements.txt
+   ```
 
-
-   
-¡Por supuesto! Aquí tienes el contenido a partir de la sección de instalación:
-
-markdown
-Copiar código
 ## Instalación
 
 1. Clonar el repositorio:
@@ -51,16 +46,16 @@ Copiar código
    cd procesamiento_imagenes
    ```
 2. Crear un entorno virtual e instalar las dependencias:
-```bash
-python -m venv venv
-source venv/bin/activate   # En Windows usa `venv\Scripts\activate`
-pip install -r requirements.txt
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # En Windows usa `venv\Scripts\activate`
+   pip install -r requirements.txt
+   ```
 
 ## Uso
 Cada proyecto se encuentra en su respectiva carpeta dentro del repositorio. Para ejecutar un proyecto, navega a la carpeta correspondiente y ejecuta el script principal.
 
-Por ejemplo, para ejecutar el proyecto de recorte de imágenes:
+Por ejemplo, para ejecutar el proyecto 1 de imágenes:
 
 ```bash
 cd recorte_imagenes
