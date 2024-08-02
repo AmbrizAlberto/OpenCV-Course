@@ -8,7 +8,6 @@ Este repositorio contiene los proyectos desarrollados durante un curso de proces
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Proyectos](#proyectos)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
@@ -50,6 +49,7 @@ Copiar código
    ```bash
    git clone https://github.com/tu_usuario/procesamiento_imagenes.git
    cd procesamiento_imagenes
+   ```
 2. Crear un entorno virtual e instalar las dependencias:
 ```bash
 python -m venv venv
@@ -67,14 +67,6 @@ cd recorte_imagenes
 python recorte.py
 ```
 
-## Proyectos
-Recorte de Imágenes: Herramienta para recortar partes de una imagen seleccionadas manualmente.
-Aplicación de Filtros: Aplicación de diversos filtros (como desenfoque, escala de grises, etc.) a imágenes.
-Dibujo sobre Imágenes: Permite dibujar formas y texto sobre imágenes.
-Edición en Tiempo Real: Edición de imágenes en tiempo real utilizando la cámara del dispositivo.
-Clasificación de Dígitos (MNIST): Clasificador de dígitos escritos a mano utilizando el dataset MNIST y TensorFlow.
-Cada carpeta de proyecto contiene más detalles sobre su uso específico y ejemplos de resultados.
-
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue los siguientes pasos:
 
@@ -83,6 +75,6 @@ Crea una rama (git checkout -b feature/nueva-funcionalidad)
 Realiza tus cambios y haz commits (git commit -am 'Añadir nueva funcionalidad')
 Haz push a la rama (git push origin feature/nueva-funcionalidad)
 Abre un Pull Request
-Licencia
 
+## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
