@@ -1,3 +1,4 @@
-opencv
-tensorflow
-tkinter
+OpenCV
+TensorFlow
+NumPy
+Matplotlib
