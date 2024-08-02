@@ -16,7 +16,7 @@ Este repositorio contiene los proyectos desarrollados durante un curso de proces
 El curso abarca diferentes técnicas y algoritmos para el procesamiento de imágenes. A lo largo de los proyectos, se implementan funcionalidades como recorte, aplicación de filtros, dibujo sobre imágenes y edición en tiempo real utilizando la cámara.
 
 ## Requisitos
-
+- PyCharm | Vim | NeoVim
 - Python 3.x
 - OpenCV
 - TensorFlow
@@ -42,8 +42,8 @@ El curso abarca diferentes técnicas y algoritmos para el procesamiento de imág
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/procesamiento_imagenes.git
-   cd procesamiento_imagenes
+   git clone https://github.com/AmbrizAlberto/OpenCV-Course.git
+   cd OpenCV-Course
    ```
 2. Crear un entorno virtual e instalar las dependencias:
    ```bash
@@ -58,8 +58,11 @@ Cada proyecto se encuentra en su respectiva carpeta dentro del repositorio. Para
 Por ejemplo, para ejecutar el proyecto 1 de imágenes:
 
 ```bash
-cd recorte_imagenes
-python recorte.py
+python 1-Image_Reduced.py
+```
+ó
+```bash
+python3 1-Image_Reduced.py
 ```
 
 ## Contribuciones
